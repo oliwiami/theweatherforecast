@@ -7,6 +7,7 @@
 body{
     font-family: 'Open Sans', sans-serif;
     font-weight: 300;
+    @apply bg-indigo-900;
 }
 
 h1{
@@ -14,7 +15,7 @@ h1{
 }
 
 .form-container{
-    background: url('./assets/flowers-background.jpg') no-repeat 50% 40% /cover;
+    background: url('./assets/background_photo.jpg') no-repeat 50% 40% /cover;
     height: auto;
-    @apply w-2/4 p-5 rounded-3xl
+    @apply lg:w-2/4 p-5 rounded-3xl
 }
