@@ -1,5 +1,5 @@
 # The Weather Forecats App
-> A simple, yet effective weather forecast app, that uses API provided by OpenWeather.
+> A simple, yet effective weather forecast app, that uses API provided by [OpenWeather](https://openweathermap.org).
 
 ## Project Outline
 Technologies/libraries used:
